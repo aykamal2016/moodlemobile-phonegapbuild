@@ -5,10 +5,10 @@
         id        = "net.moodlemoot.mootes14"
         versionCode = "1"
         version   = "1.0">
-    <name>mootes14</name>
+    <name>SchoolHUB</name>
 
     <description>
-        School HUB Moodle official app
+        School HUB official app
     </description>
 
     <author href="http://schoolhub.vieracom.com" email="aykamal@live.com">
